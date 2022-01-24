@@ -66,7 +66,7 @@ namespace Practice4_3
                 Console.WriteLine(mon);
                 return;
             }
-            Console.WriteLine("There is no such a month, bruhыуафц");
+            Console.WriteLine("There is no such a month, bruh");
         }
     }
 }
